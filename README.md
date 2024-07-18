@@ -69,4 +69,4 @@ Contributions to improve the timetable generator are welcome. Please feel free t
 ## Contact
 Ahmed Abd-ur-Rahman - i210404@nu.edu.pk
 
-Project Link: [https://github.com/your-username/timetable-generator-genetic-algorithm](https://github.com/your-username/timetable-generator-genetic-algorithm)
+Project Link: [https://github.com/Asquarer02/Timtable-using-Genetic-Algorithm](https://github.com/Asquarer02/Timtable-using-Genetic-Algorithm)
